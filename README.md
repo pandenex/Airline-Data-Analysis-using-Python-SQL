@@ -1,6 +1,8 @@
 # Airline-Data-Analysis-using-Python-SQL
 The Airline Data Analysis Project aims to explore and analyze a comprehensive dataset related to airline operations.
 
+![image alt](https://github.com/pandenex/Airline-Data-Analysis-using-Python-SQL/blob/60266bc6bc1aabbb7c6f2310d3334ca27f28dd77/download.jpg)
+
 ## Business Problem
 Airline industry is currently facing challenges due to various factors such as stricter environmental regulations, higher flight taxes, increased interest rates, rising fuel prices, and a tight labor market leading to higher labor costs. These challenges are putting pressure on the company's profitability, and they are actively seeking solutions to address this issue. In order to tackle this challenge, the company is planning to analyze their database and identify opportunities to increase the occupancy rate, thereby boosting the average profit earned per seat.
 
